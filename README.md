@@ -2,7 +2,7 @@
 
 ℹ️ **NOTE**: Este é o repositório desenvolvido durante o curso Santander 2024 - Fundamentos de IA para Devs, patrocinado pela DIO, no qual participei como estudante.
 
-## [Clique aqui para ler o eBook](#)
+## [Clique aqui para ler o eBook]([https://github.com/seu-usuario/seu-repositorio/blob/main/caminho-do-ebook.pdf](https://github.com/sthjes/Eboofk_Herois-dos-Dados/blob/main/Heroes%20of%20Data%20_Ebook_output1.pdf))
 
 ## 💻 Tecnologias Utilizadas no Projeto
 - **ChatGPT**: Utilizado para gerar conteúdo textual explicativo e exemplos de código.
